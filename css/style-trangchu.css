@@ -1,0 +1,12 @@
+.pt-6 {
+    padding-top: 6rem !important;
+}
+
+.btn-more {
+    background: #FCB500;
+    width: 210px;
+    height: 42px;
+    text-align: center;
+    line-height: 42px;
+    border-radius: 38px;
+}
