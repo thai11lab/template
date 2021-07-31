@@ -622,6 +622,15 @@ h2.text-white {
         text-align: left;
     }
 
+    .nav-custom {
+        background: orange;
+        position: absolute;
+        width: 150px;
+        bottom: 10px;
+        left: 13%;
+        margin-bottom: -3px;
+        bottom: -18%;
+    }
 }
 
 @media screen and (max-width:375px) {
@@ -717,5 +726,15 @@ h2.text-white {
         font-size: 22px;
         width: 56%;
         text-align: left;
+    }
+
+    .nav-custom {
+        background: orange;
+        position: absolute;
+        width: 150px;
+        bottom: 10px;
+        left: 13%;
+        margin-bottom: -3px;
+        bottom: -18%;
     }
 }
