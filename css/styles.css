@@ -338,8 +338,8 @@ h2.text-white {
     background: orange;
     position: absolute;
     width: 150px;
-    bottom: 35px;
-    left: 477px;
+    bottom: 10px;
+    left: 35%;
 }
 
 .nav-custom .owl-cus-prev {
@@ -388,8 +388,8 @@ h2.text-white {
     border: none;
     outline: none;
     margin-left: 35vw;
-    position: relative;
-    top: -133px;
+    bottom: 5vw;
+
 }
 
 .contact-content {
@@ -534,6 +534,16 @@ h2.text-white {
         height: 250;
         margin-left: 10vw;
         margin-top: 1vw;
+        bottom: 0vw;
+    }
+
+    .nav-custom {
+        background: orange;
+        position: absolute;
+        width: 150px;
+        bottom: 10px;
+        left: 35%;
+        margin-bottom: -3px;
     }
 }
 
